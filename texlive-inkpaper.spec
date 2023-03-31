@@ -1,6 +1,6 @@
 Name:		texlive-inkpaper
 Version:	54080
-Release:	1
+Release:	2
 Summary:	A mathematical paper template
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inkpaper
