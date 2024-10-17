@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	A mathematical paper template
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inkpaper
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/inkpaper
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inkpaper.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inkpaper.doc.r%{version}.tar.xz
